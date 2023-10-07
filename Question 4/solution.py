@@ -1,7 +1,7 @@
 def max_subarray_sum(nums):
     """
 
-    :param nums: 
+    :param nums:
 
     """
     if not nums:
