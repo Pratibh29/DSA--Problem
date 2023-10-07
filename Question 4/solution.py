@@ -1,4 +1,9 @@
 def max_subarray_sum(nums):
+    """
+
+    :param nums: 
+
+    """
     if not nums:
         return 0
 
