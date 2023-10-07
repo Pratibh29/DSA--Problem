@@ -10,6 +10,7 @@ def max_subarray_sum(nums):
 
     return max_sum
 
+
 # Take user input for the integer array
 input_str = input("Enter the elements of the array separated by spaces: ")
 nums = [int(x) for x in input_str.split()]
